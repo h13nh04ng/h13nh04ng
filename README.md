@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**h13nh04ng/h13nh04ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Hien</h1>
 
-Here are some ideas to get you started:
+- I’m currently studying on [Academy of Cryptography Technique Vietnam](https://actvn.edu.vn/) (KMA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## 📫 How to reach me:
+<p align="center">
+    <a href="https://www.linkedin.com/in/ho%C3%A0ng-ng%E1%BB%8Dc-hi%E1%BB%83n-961a2624a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BprEiNzdJT%2FeQOYrfWOJJuQ%3D%3D"
+        target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+    </a>
+    <a href="https://www.facebook.com/hien.hhn/" alt="Facebook">
+        <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    </a>
+    <a href="https://github.com/h13nh04ng" alt="Github">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" />
+    </a>
+    <a href="mailto:hienhoangngoc20@gmail.com" alt="Email">
+        <img src="https://img.icons8.com/fluent/48/000000/mailing.png" />
+    </a>
+</p>
+
